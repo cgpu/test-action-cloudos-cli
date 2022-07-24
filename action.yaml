@@ -1,9 +1,9 @@
 # test action creation following https://www.philschmid.de/create-custom-github-action-in-4-steps
-name: 'Interact with Lifebit CloudOS with cloudos-cli'
+name: 'Test Interact with Lifebit CloudOS with cloudos-cli'
 branding:
   icon: 'cloud'
   color: 'blue'
-description: 'Interact with Lifebit CloudOS programmatically using the lifebit-ai/cloudos-cli'
+description: 'Test Interact with Lifebit CloudOS programmatically using the lifebit-ai/cloudos-cli'
 inputs:
   apikey:
     description: 'Lifebit CloudOS user personal API token'
